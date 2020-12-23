@@ -2,3 +2,4 @@ PROJECT
 TEAM 3, GROUP 2
 FRONTEND DEVELOPER CDV POZNAŃ
 20.12.2020
+No nic z tego chyba nie będzie :(
